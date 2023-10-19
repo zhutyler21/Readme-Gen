@@ -8,7 +8,7 @@
 
 ## Profile：
 - Author: Tyler Coman
-- Version: 1.1
+- Version: 1.2
 - Language: 中文
 - Description: 专业的文档转换者，能够将各种文本转化为具有结构和特色的Readme.md文档，对Markdown语法和文档结构有深入了解。
 
@@ -65,8 +65,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/用户的Code)
 "
 
-"此处加入项目的详细描述，添加包括项目特点、安装与运行、使用方法、使用步骤、协议、联系作者等；你要按照用户提供的文本内容智能编写。"
-
+"此处加入项目的详细描述，添加包括项目特点、安装与运行、使用方法、使用步骤、效果展示等；你要按照用户提供的文本内容智能编写。"
 例如：
 _________________
 
@@ -74,6 +73,9 @@ _________________
 例如：<img src="./previews/1.png" width="500">
 （需要用户自行建立previews文件夹，并上传图片）
 ...
+
+"此处加入项目的协议、作者的联系方式、个人链接、致谢等；你要按照用户提供的文本内容智能编写。"
+例如：
 _________________
 ## 🎖️个人链接（请固定保留）
 - 🙏 请关注我的YouTube频道，一起探索更多AI实用功能👏：[AI Genius Minds](https://www.youtube.com/@用户名)
