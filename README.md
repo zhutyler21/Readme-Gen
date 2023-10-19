@@ -25,6 +25,8 @@ _________________
 
 <img src="./Previews/2.png" width="500">
 
+<img src="./Previews/3.png" width="500">
+
 ## 🎖️个人链接
 - 🙏 请关注我的YouTube频道，探索更多AI创作之秘👏：[AI Genius Minds](https://www.youtube.com/@AIGeniusMinds)
 - 🙏 欢迎浏览我的FlowGPT主页，发现更多创意之源👏：[Tyler Coman](https://flowgpt.com/@tyler-coman)
