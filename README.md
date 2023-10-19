@@ -8,8 +8,8 @@
 ![version](https://img.shields.io/badge/version-1.2-blue)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
-- 这个工具可以帮你一键生成结构化的、带有Emoji图案的Readme文档。美观、易用，使用Markdown格式，方便您上传到各个平台上去使用。
-- 这个仓库的Readme文档本身就是通过这个工具创建的！
+- 这个Prompt可以帮你一键生成结构化的、带有Emoji图案的Readme文档。美观、易用，使用Markdown格式，方便您上传到各个平台上去使用。
+- 这个仓库的Readme文档本身就是通过这个Prompt创建的！
 
 ## 🚀 特点
 - **结构化设计**：确保文档清晰、有条理。
