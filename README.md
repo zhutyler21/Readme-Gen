@@ -1,4 +1,4 @@
-# 📄 一键生成Readme工具 🛠️
+# 📄 一键生成Readme文档工具 🛠️
 
 ## 🌌 引子
 > "知识就是力量，而良好的介绍文档是知识传播的关键。"
@@ -21,7 +21,9 @@
 _________________
 
 ## 🎨 效果展示
-例如：<img src="./previews/1.png" width="500">
+<img src="./previews/1.png" width="500">
+
+<img src="./previews/2.png" width="500">
 
 ## 🎖️个人链接
 - 🙏 请关注我的YouTube频道，探索更多AI创作之秘👏：[AI Genius Minds](https://www.youtube.com/@AIGeniusMinds)
