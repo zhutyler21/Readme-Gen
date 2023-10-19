@@ -21,9 +21,9 @@
 _________________
 
 ## 🎨 效果展示
-<img src="./previews/1.png" width="500">
+<img src="./Previews/1.png" width="500">
 
-<img src="./previews/2.png" width="500">
+<img src="./Previews/2.png" width="500">
 
 ## 🎖️个人链接
 - 🙏 请关注我的YouTube频道，探索更多AI创作之秘👏：[AI Genius Minds](https://www.youtube.com/@AIGeniusMinds)
