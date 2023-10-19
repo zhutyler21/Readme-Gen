@@ -17,7 +17,7 @@
 - **Markdown格式**：兼容各大平台，方便分享和展示。
 
 ## 📥 使用方法
-- 建议使用GPT-4输入Prompt，即可开始体验。[立即体验](https://chat.openai.com/share/c40318c4-bf46-45fa-9502-4211529d1ff8)
+- 建议使用GPT-4输入Prompt，即可开始体验。[立即体验](https://chat.openai.com/share/19590fee-0ba1-42be-876b-761137d37ca8)
 _________________
 
 ## 🎨 效果展示
